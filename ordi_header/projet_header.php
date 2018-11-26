@@ -13,10 +13,10 @@
             <span><img src="../images/logo.png" class="img_logo_itk"></span>
         </div>
         <div class="itk_menu_deroule">
-            <div class="Actualités">
+            <div class="actualites">
                 <span>Actualités</span>
             </div>
-            <div class="Informatique">
+            <div class="informatique">
                 <span>Informatique</span>
             </div>
             <div class="telephonie">

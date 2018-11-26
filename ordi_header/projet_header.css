@@ -48,12 +48,12 @@
             display: inline-block;
         }
         /* tout ce qu'il y a dans menu deroule */
-                .Actualités {
+                .actualites {
                     position: absolute;
                     top: 1rem;
                     left: 25vw;
                 }
-                .Informatique {
+                .informatique {
                     position: absolute;
                     top: 1rem;
                     left: 33vw;

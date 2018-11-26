@@ -1,4 +1,6 @@
 .footer {
+    padding-top: 2vw;
+    padding-bottom: 2vw;
     width: 100%;
     background-color: grey;
     text-align: center;
@@ -11,6 +13,8 @@
     display: inline;
 }
 .footer_logo {
+    padding-top: 2vw;
+    padding-bottom: 2vw;
     width: 100%;
     background-color: black;
     text-align: center;
@@ -29,6 +33,5 @@
 }
 
 footer {
-    position: absolute; bottom: 0;
     width: 100%;
 }
