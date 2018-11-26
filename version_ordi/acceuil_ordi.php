@@ -25,3 +25,4 @@ include ('../ordi_header/projet_header.php');
 include ('../footer/footer.php')
 ?>
 </body>
+</html>
