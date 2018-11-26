@@ -1,0 +1,39 @@
+.logo_footer {
+    width: 4vw;
+    float: left;
+}
+
+.logo {
+    width: 4vw;
+}
+
+.footer {
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    padding-bottom: 2vw;
+    padding-top: 2vw;
+    color: white;
+}
+.footer_bas {
+    font-size: 1vw;
+    padding-left: 7vw;
+    padding-right: 7vw;
+    display: inline;
+}
+.footer_logo {
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 2vw;
+    padding-top: 2vw;
+    color: white;
+}
+.footer_logo_img {
+    display: inline;
+    padding-right: 10vw;
+}
+footer {
+    position: absolute; bottom: 0;
+    width: 100%;
+}

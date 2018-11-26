@@ -1,0 +1,31 @@
+.logoimie {
+	height: 6rem;
+	float: right;
+}
+
+.bvn {
+	font-size: 40px;
+}
+
+#bandeau_rouge {
+	height: 50px;
+	background-color: #EA3D4F;
+	vertical-align: center;
+	text-align: center;
+}
+
+
+
+footer {
+	position: absolute; bottom: 0;
+}
+
+h1 {
+	color: white;
+	font-size: 3vw;
+}
+
+html, body, header, ul{
+	margin: 0;
+	padding: 0;
+}
