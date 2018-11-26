@@ -1,0 +1,42 @@
+#textarea{
+    height:200px;
+    width:90%;
+    margin-top: 5px;
+
+}
+.formulaire{
+
+    margin: auto;
+    margin-top: 20px;
+    width: 50%;
+    background-color: #50B492;
+    box-shadow: 10px -10px #326F5B;
+    padding: 15px;
+
+}
+.input{
+
+    border: none;
+}
+.bouton{
+    background-color: #326F5B;
+    border: none;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    width: 10em;
+    padding:5px;
+}
+.chevron{
+    font-style: bold;
+    color: grey;
+    font-size: 80px;
+    padding-left: 25px;
+}
+.chevron2{
+    font-style: bold;
+    float: right;
+    color: grey;
+    font-size: 80px;
+    padding-right: 25px;
+}
