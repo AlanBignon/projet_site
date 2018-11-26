@@ -1,20 +1,20 @@
 .footer {
-    padding-top: 2vw;
-    padding-bottom: 2vw;
+    padding-top: 20px;
+    padding-bottom: 20px;
     width: 100%;
     background-color: grey;
     text-align: center;
     color: white;
 }
 .footer_bas {
-    font-size: 1vw;
+    vertical-align: middle;
     padding-left: 7vw;
     padding-right: 7vw;
     display: inline;
 }
 .footer_logo {
-    padding-top: 2vw;
-    padding-bottom: 2vw;
+    padding-top: 40px;
+    padding-bottom: 40px;
     width: 100%;
     background-color: black;
     text-align: center;
@@ -25,11 +25,11 @@
     padding-right: 10vw;
 }
 .logo_footer {
-    width: 4vw;
+    width: 40px;
     float: left;
 }
 .logo {
-    width: 4vw;
+    width: 40px;
 }
 
 footer {

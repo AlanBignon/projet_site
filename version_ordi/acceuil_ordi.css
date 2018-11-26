@@ -1,14 +1,14 @@
 .logoimie {
-	height: 3rem;
+	height: 37.6px;
 	float: right;
 }
 
-.bandeau_rouge {
+#bandeau_rouge {
+	padding-top: 10px;
+	padding-bottom: 10px;
 	width: 100%;
-	height: 3.2rem;
-	background-color: #EA3D4F;
-	vertical-align: middle;
 	text-align: center;
+	background-color: #EA3D4F;
 }
 
 div.bvn {
