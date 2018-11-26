@@ -16,7 +16,7 @@
 include ('../ordi_header/projet_header.php');
 ?>
 <main>
-    <div id="bandeau_rouge">
+    <div class="bandeau_rouge">
         <img src="../images/logo_imie.png" class="logoimie">
         <h1 class="bvn">Bienvenue sur le blog IMIE</h1>
     </div>

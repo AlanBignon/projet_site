@@ -7,13 +7,13 @@
 	font-size: 1.3rem;
 }
 
-#bandeau_rouge {
+.bandeau_rouge {
 	position: absolute;
 	top: 3.3rem;
 	width: 100%;
 	height: 50px;
 	background-color: #EA3D4F;
-	vertical-align: center;
+	vertical-align: middle;
 	text-align: center;
 }
 

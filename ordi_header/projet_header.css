@@ -121,7 +121,6 @@ html, body{
         right: 14rem;
         height: 20px;
     }
-
     .img_profil {
         position: absolute;
         top: 0.6rem;
@@ -145,12 +144,10 @@ html, body{
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 400px) and (min-width: 325px) {
     .img_logo_itk {
         position: absolute;
-        top: 0;
-        left: 6rem;
-        height: 54px;
+        left: 7rem;
     }
     .compte {
         display: none;
@@ -158,12 +155,20 @@ html, body{
     .itk_menu_deroule {
         display: none;
     }
+
+}
+@media screen and (max-width: 325px) {
+    .img_logo_itk {
+        position: absolute;
+        left: 5rem;
+    }
     .menu {
         display: none;
     }
-}
-@media screen and (max-width: 400px) {
-    .img_logo_itk {
+    .compte {
+        display: none;
+    }
+    .itk_menu_deroule {
         display: none;
     }
 }

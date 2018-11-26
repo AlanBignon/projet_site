@@ -2,7 +2,7 @@
     <div class="itk_container">
         <div class="itk_nav_menu">
             <div class="itk_nav_menu_img">
-                <span><img src="../images/menu.png" class="img_hamburger"></span>
+                <span><img src="../images/logo_mobile.png" class="img_hamburger"></span>
             </div>
             <div class="itk_nav_menu_text">
                 <span class="menu">Menu</span>
