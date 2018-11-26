@@ -1,6 +1,6 @@
 <footer>
 <ul class="footer">
-    <li class="footer_bas">Contact</li>
+    <li class="footer_bas"><a href="../contact/contact.php">Contact</a></li>
     <li class="footer_bas">Qui sommes nous ?</li>
     <li class="footer_bas">CGU</li>
     <li class="footer_bas">2018 IT Knowledge </li>
