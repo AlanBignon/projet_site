@@ -5,17 +5,14 @@
 
 }
 .formulaire{
-
     margin: auto;
     margin-top: 20px;
     width: 50%;
     background-color: #50B492;
     box-shadow: 10px -10px #326F5B;
     padding: 15px;
-
 }
 .input{
-
     border: none;
 }
 .bouton{
@@ -28,14 +25,13 @@
     padding:5px;
 }
 .chevron{
-    font-style: bold;
+    font-weight: bold;
     color: grey;
     font-size: 80px;
     padding-left: 25px;
 }
 .chevron2{
     font-style: bold;
-    float: right;
     color: grey;
     font-size: 80px;
     padding-right: 25px;
