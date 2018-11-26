@@ -1,3 +1,6 @@
+.bvn {
+	color: white;
+}
 .logoimie {
 	height: 37.6px;
 	float: right;
@@ -16,7 +19,10 @@ div.bvn {
 	font-size: 2rem;
 	vertical-align: middle;
 }
-
+a {
+	color: white;
+	text-decoration: none;
+}
 html, body, header, ul, h1{
 	margin: 0;
 	padding: 0;

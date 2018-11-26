@@ -48,27 +48,27 @@
             display: inline-block;
         }
         /* tout ce qu'il y a dans menu deroule */
-                .actualites {
+                .menu {
                     position: absolute;
                     top: 1rem;
                     left: 25vw;
                 }
-                .informatique {
+                .actualites {
                     position: absolute;
                     top: 1rem;
                     left: 33vw;
                 }
-                .telephonie {
+                .informatique {
                     position: absolute;
                     top: 1rem;
                     left: 43vw;
                 }
-                .audio {
+                .telephonie {
                     position: absolute;
                     top: 1rem;
                     left: 52vw;
                 }
-                .Tv_video {
+                .multimedia {
                     position: absolute;
                     top: 1rem;
                     left: 58vw;

@@ -13,6 +13,9 @@
             <span><img src="../images/logo.png" class="img_logo_itk"></span>
         </div>
         <div class="itk_menu_deroule">
+            <div class="menu">
+                <span>menu</span>
+            </div>
             <div class="actualites">
                 <span>Actualités</span>
             </div>
@@ -22,11 +25,8 @@
             <div class="telephonie">
                 <span>Telephonie</span>
             </div>
-            <div class="audio">
-                <span>Audio</span>
-            </div>
-            <div class="Tv_video">
-                <span>TV / video</span>
+            <div class="multimedia">
+                <span>multimedia</span>
             </div>
                 <div class="logiciels">
                 <span>Logiciels</span>
