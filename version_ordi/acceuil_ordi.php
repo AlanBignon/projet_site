@@ -35,7 +35,7 @@ include ('../ordi_header/projet_header.php');
 
         Nulla euismod lobortis neque aliquet placerat. Aenean tellus ante, ultricies in luctus vitae, aliquet id risus. Nullam tellus ante, ultrices in dolor in, pretium eleifend turpis. Proin orci sem, aliquet fringilla nisi et, iaculis egestas nisl. Suspendisse tincidunt ullamcorper urna, ac ultricies nisl posuere quis. Suspendisse potenti. Sed nec tristique sapien. In quis lobortis nibh. Vestibulum sodales lacus at ligula bibendum, sit amet facilisis ante interdum. Aenean nibh nisl, scelerisque vitae blandit sit amet, semper maximus lectus. Donec iaculis porta purus, ac congue arcu pretium eu. Ut consectetur quam ac nibh varius efficitur. Vestibulum malesuada dictum diam. Duis at porttitor nunc. Cras sit amet orci scelerisque, suscipit libero sit amet, condimentum magna.
     </p>
-    <img src="../images/imie_logo.png">
+    <?php //<img src="../images/imie_logo.png"> ?>
 </main>
 
 <?php
