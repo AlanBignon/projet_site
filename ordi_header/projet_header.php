@@ -13,8 +13,8 @@
             <span><img src="../images/logo.png" class="img_logo_itk"></span>
         </div>
         <div class="itk_menu_deroule">
-            <div class="menu">
-                <span>menu</span>
+            <div class="menu_dans_le_menu">
+                <span><a href="http://localhost/projet/version_ordi/acceuil_ordi.php">Menu</a> </span>
             </div>
             <div class="actualites">
                 <span>Actualités</span>

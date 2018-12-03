@@ -48,7 +48,7 @@
             display: inline-block;
         }
         /* tout ce qu'il y a dans menu deroule */
-                .menu {
+                .menu_dans_le_menu {
                     position: absolute;
                     top: 1rem;
                     left: 25vw;
@@ -155,7 +155,6 @@ html, body{
     .itk_menu_deroule {
         display: none;
     }
-
 }
 @media screen and (max-width: 325px) {
     .img_logo_itk {
