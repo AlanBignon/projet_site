@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="projet_header.css">
+    <title></title>
+</head>
+<body>
+
 <header class="itk_header">
     <div class="itk_container">
         <div class="itk_nav_menu">

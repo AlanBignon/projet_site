@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6b74b2d3-5a71-4ce6-97a2-57a852b3099f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordi_header/projet_header.css" beforeDir="false" afterPath="$PROJECT_DIR$/ordi_header/projet_header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ordi_header/projet_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/ordi_header/projet_header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/version_ordi/acceuil_ordi.php" beforeDir="false" afterPath="$PROJECT_DIR$/version_ordi/acceuil_ordi.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +15,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/version_ordi/acceuil_ordi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="83" lean-forward="true" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
+            <state relative-caret-position="323">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panneau_config/panneau_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/panneau_config/panneau_config.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -25,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/version_ordi/acceuil_ordi.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="420">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -44,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/footer/footer.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -52,26 +72,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ordi_header/projet_header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ordi_header/projet_header.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="163" column="11" lean-forward="true" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="11" />
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact/form.css">
+        <entry file="file://$PROJECT_DIR$/ordi_header/projet_header.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -127,8 +138,10 @@
         <option value="$PROJECT_DIR$/version_ordi/acceuil_ordi.css" />
         <option value="$PROJECT_DIR$/footer/footer.css" />
         <option value="$PROJECT_DIR$/ordi_header/projet_header.php" />
-        <option value="$PROJECT_DIR$/version_ordi/acceuil_ordi.php" />
         <option value="$PROJECT_DIR$/ordi_header/projet_header.css" />
+        <option value="$PROJECT_DIR$/panneau_config/panneau_config.php" />
+        <option value="$PROJECT_DIR$/panneau_config/panneau_config.css" />
+        <option value="$PROJECT_DIR$/version_ordi/acceuil_ordi.php" />
       </list>
     </option>
   </component>
@@ -155,6 +168,11 @@
               <item name="Projet" type="b2602c69:ProjectViewProjectNode" />
               <item name="Projet" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Projet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projet" type="462c0819:PsiDirectoryNode" />
+              <item name="panneau_config" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -163,7 +181,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ITKNOWLEDGE" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -198,7 +216,9 @@
       <workItem from="1543223495249" duration="19795000" />
       <workItem from="1543259382405" duration="9000" />
       <workItem from="1543305955521" duration="765000" />
-      <workItem from="1543824986392" duration="2823000" />
+      <workItem from="1543824986392" duration="5937000" />
+      <workItem from="1543839307488" duration="1288000" />
+      <workItem from="1543845735194" duration="1676000" />
     </task>
     <task id="LOCAL-00001" summary="quelques changement et header plus bandeau rouge fini">
       <created>1543233028984</created>
@@ -260,13 +280,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50373000" />
+    <option name="totallyTimeSpent" value="56451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37785235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3885906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -338,6 +358,13 @@
     <entry file="file://D:/YouTube.html" />
     <entry file="file://$PROJECT_DIR$/contact.php" />
     <entry file="file://$PROJECT_DIR$/footer/form.php" />
+    <entry file="file://$PROJECT_DIR$/contact/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contact/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -352,17 +379,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact/form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/footer/footer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordi_header/projet_header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ordi_header/projet_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -373,31 +407,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/version_ordi/acceuil_ordi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="83" lean-forward="true" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/version_ordi/acceuil_ordi.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="420">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ordi_header/projet_header.php">
+    <entry file="file://$PROJECT_DIR$/panneau_config/panneau_config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="1258">
+          <caret line="74" column="6" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ordi_header/projet_header.css">
+    <entry file="file://$PROJECT_DIR$/panneau_config/panneau_config.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="163" column="11" lean-forward="true" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="11" />
+        <state relative-caret-position="930">
+          <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/version_ordi/acceuil_ordi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
