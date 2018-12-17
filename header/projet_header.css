@@ -1,0 +1,172 @@
+.itk_header {
+    background-color: black;
+}
+
+.itk_container {
+    height: 54px;
+}
+
+/* tout ce qu'il y a dans le container */
+    /*le menu et hamburger */
+        .itk_nav_menu {
+            padding-left: 10px;
+            display: inline-block;
+        }
+        .itk_nav_menu_img {
+            display: inline-block;
+            color: white;
+        }
+        .itk_nav_menu_text {
+            position: absolute;
+            top: 1rem;
+            left: 4rem;
+            color: white;
+            display: inline-block;
+        }
+    /* le logo de it Knowledge*/
+        .logo {
+            display: inline-block;
+        }
+    /* bouton recherche et profil, compte */
+        .recherche {
+            display: inline-block;
+        }
+        .profil {
+            display: inline-block;
+        }
+        .compte {
+            position: absolute;
+            top: 1rem;
+            right: 4rem;
+            color: white;
+            display: inline-block;
+        }
+    /*menu derouler */
+        .itk_menu_deroule {
+            color: white;
+            display: inline-block;
+        }
+        /* tout ce qu'il y a dans menu deroule */
+                .menu_dans_le_menu {
+                    position: absolute;
+                    top: 1rem;
+                    left: 25vw;
+                }
+                .actualites {
+                    position: absolute;
+                    top: 1rem;
+                    left: 33vw;
+                }
+                .informatique {
+                    position: absolute;
+                    top: 1rem;
+                    left: 43vw;
+                }
+                .telephonie {
+                    position: absolute;
+                    top: 1rem;
+                    left: 52vw;
+                }
+                .multimedia {
+                    position: absolute;
+                    top: 1rem;
+                    left: 58vw;
+                }
+                .logiciels {
+                    position: absolute;
+                    top: 1rem;
+                    left: 66vw;
+                }
+
+/*toutes les images*/
+.img_hamburger {
+    position: absolute;
+    top: 0.8rem;
+    left: 1.2rem;
+    height: 25px;
+}
+.img_logo_itk {
+    position: absolute;
+    top: 0;
+    left: 8rem;
+    height: 54px;
+}
+.img_recherche {
+    position: absolute;
+    top: 1.2rem;
+    right: 5rem;
+    height: 20px;
+}
+
+.img_profil {
+    position: absolute;
+    top: 0.6rem;
+    right: 2rem;
+    height: 35px;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (min-width: 1200px){
+    .itk_nav_menu{
+        display: none;
+    }
+    .img_recherche {
+        position: absolute;
+        top: 1.2rem;
+        right: 14rem;
+        height: 20px;
+    }
+    .img_profil {
+        position: absolute;
+        top: 0.6rem;
+        right: 10rem;
+        height: 35px;
+    }
+}
+@media screen and (max-width: 1200px) and (min-width: 400px){
+    .compte {
+        display: none;
+    }
+    .itk_menu_deroule {
+        display: none;
+    }
+    .img_logo_itk {
+        position: absolute;
+        top: 0;
+        left: 10rem;
+        height: 54px;
+    }
+
+}
+
+@media screen and (max-width: 400px) and (min-width: 325px) {
+    .img_logo_itk {
+        position: absolute;
+        left: 7rem;
+    }
+    .compte {
+        display: none;
+    }
+    .itk_menu_deroule {
+        display: none;
+    }
+}
+@media screen and (max-width: 325px) {
+    .img_logo_itk {
+        position: absolute;
+        left: 5rem;
+    }
+    .menu {
+        display: none;
+    }
+    .compte {
+        display: none;
+    }
+    .itk_menu_deroule {
+        display: none;
+    }
+}
