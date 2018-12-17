@@ -40,7 +40,7 @@
   
     <table id="last_cours">
     <tr id="couleur_banniere_cours">
-      <td class="border_banniere_top" colspan="2">Dernières actualités </td>
+      <td class="border_banniere_top" colspan="2">Tuto, Astuces</td>
     </tr>
     <tr>
       <td><img class="image_actu" src="../images/fb_actu.jpg"></td>
@@ -57,7 +57,7 @@
 
   <table id="last_actus_imie">
     <tr id="couleur_banniere_actus_imie">
-      <td class="border_banniere_top" colspan="2">Dernières actualités </td>
+      <td class="border_banniere_top" colspan="2">Dernières actualités de l'IMIE</td>
     </tr>
     <tr>
       <td><img class="image_actu" src="../images/fb_actu.jpg"></td>
